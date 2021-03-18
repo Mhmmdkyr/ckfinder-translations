@@ -3,8 +3,8 @@
 	"dir": "ltr",
 	"langCode": "tr",
 	"common": {
-		"abort": "Vazgeç",
-		"cancel": "İptal",
+		"abort": "İptal",
+		"cancel": "Vazgeç",
 		"choose": "Seç",
 		"close": "Kapat",
 		"copy": "Kopyala",
@@ -22,7 +22,7 @@
 		"rename": "Yeniden Adlandır",
 		"showMore": "Daha fazla",
 		"skip": "Atla",
-		"upload": "Karşıya Yükle",
+		"upload": "Yükle",
 		"view": "İzle"
 	},
 	"units": {
@@ -56,11 +56,11 @@
 		},
 		"emptyFilesPane": {
 			"title": "Dizin boş.",
-			"text": "<strong>Karşıya Yükle</strong> düğmesini kullanın veya dosyalarınızı buraya <strong>sürükleyip bırakın</strong>."
+			"text": "<strong>Yükle</strong> düğmesini kullanın veya dosyalarınızı buraya <strong>sürükleyip bırakın</strong>."
 		},
 		"filterFilesEmpty": {
 			"title": "Bir şey bulunamadı.",
-			"text": "Lütfen başka bir arama ölçütü ile tekrar deneyin."
+			"text": "Lütfen başka bir arama filtresi ile tekrar deneyin."
 		}
 	},
 	"folders": {
@@ -127,12 +127,12 @@
 			"13": "Bağlayıcı yapılandırma dosyası geçersiz",
 			"14": "Geçersiz bağlayıcı eklentisi: {pluginName}.",
 			"102": "Geçersiz dosya veya dizin adı.",
-			"103": "İstek yetkilendirme kısıtlamaları sebebiyle tamamlanamadı.",
-			"104": "İstek dosya sistemi kısıtlamaları sebebiyle tamamlanamadı.",
+			"103": "İstek, yetkilendirme kısıtlamaları sebebiyle tamamlanamadı.",
+			"104": "İstek, dosya sistemi kısıtlamaları sebebiyle tamamlanamadı.",
 			"105": "Geçersiz dosya uzantısı.",
 			"109": "Geçersiz istek.",
 			"110": "Bilinmeyen hata.",
-			"111": "İstek oluşan dosyanın boyutunun büyük olması sebebiyle tamamlanamadı.",
+			"111": "İstek, oluşan dosyanın boyutunun büyük olması sebebiyle tamamlanamadı.",
 			"115": "Aynı ada sahip bir dosya veya dizin zaten mevcut.",
 			"116": "Dizin bulunamadı. Lütfen yenileyerek tekrar deneyin.",
 			"117": "Dosya bulunamadı. Lütfen dosya listesini yenileyerek tekrar deneyin.",
